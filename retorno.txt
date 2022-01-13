@@ -1,6 +1,0 @@
-CEP: 14031-300
-Logradouro: Rua Alfredo Condeixa
-Complemento: até 1128/1129
-Bairro: Jardim Marchesi
-Cidade: Ribeirão Preto
-Estado: SP
