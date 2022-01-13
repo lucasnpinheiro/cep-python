@@ -1,0 +1,3 @@
+([('inicial',
+   '/Users/lucaspinheiro/ProjetosPessoais/cep/dist/inicial',
+   'EXECUTABLE')],)
